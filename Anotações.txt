@@ -3,3 +3,12 @@ Minha primeira anotação:
 ls para listar a pasta atual
 
 cd trocar de diretório
+
+1. Criar repositório no GITHUB
+2. Abrir Git bash here no projeto que quero subir
+3. No terminal > git init
+4. git remote add origin <url projeto github>
+5. git status
+6. git add .
+7. git commit -m "descrição"
+8. git push
