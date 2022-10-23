@@ -1,1 +1,5 @@
 Minha primeira anotação:
+
+ls para listar a pasta atual
+
+cd trocar de diretório
